@@ -52,7 +52,8 @@
 			isa = PBXGroup;
 			children = (
 				0D09A33C275560C100BF9D47 /* PhysicsApp.swift */,
-				0D09A33E275560C100BF9D47 /* ContentView.swift */,
+				0D09A34B275560E100BF9D47 /* Views */,
+				0D09A34A275560DB00BF9D47 /* Model */,
 				0D09A340275560C500BF9D47 /* Assets.xcassets */,
 				0D09A342275560C500BF9D47 /* Preview Content */,
 			);
@@ -65,6 +66,21 @@
 				0D09A343275560C500BF9D47 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		0D09A34A275560DB00BF9D47 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		0D09A34B275560E100BF9D47 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				0D09A33E275560C100BF9D47 /* ContentView.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
